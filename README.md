@@ -2,7 +2,16 @@
 
 An advanced video editing platform that leverages artificial intelligence to transform raw footage into professional-quality videos with minimal manual effort.
 
-![AI Video Editor](https://images.unsplash.com/photo-1626544827763-d516dce335e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+![screencapture-chipper-mochi-dc21d2-netlify-app-2025-03-27-17_34_05](https://github.com/user-attachments/assets/8ae30d6d-f9b6-49af-a4cd-60a17af91444)
+
+![screencapture-chipper-mochi-dc21d2-netlify-app-new-project-2025-03-27-17_34_40](https://github.com/user-attachments/assets/3902b578-f650-4f84-9903-52742bcc44e2)
+
+![screencapture-chipper-mochi-dc21d2-netlify-app-new-project-2025-03-27-17_36_49](https://github.com/user-attachments/assets/31fe9c8e-8cd5-43a2-8d94-8e72d30a6811)
+
+![screencapture-chipper-mochi-dc21d2-netlify-app-editor-new-project-id-2025-03-27-17_37_03](https://github.com/user-attachments/assets/f54502f1-efe3-4618-8417-36a91905669b)
+
+![screencapture-chipper-mochi-dc21d2-netlify-app-editor-new-project-id-2025-03-27-17_38_04](https://github.com/user-attachments/assets/5db933a2-6234-49b4-9b36-057556a6bc5e)
+
 
 ## Features
 
